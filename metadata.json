@@ -1,0 +1,5 @@
+{
+  "name": "AI Quiz Race",
+  "description": "A real-time competitive quiz app where students race to the finish line by answering AI-generated questions.",
+  "requestFramePermissions": []
+}
